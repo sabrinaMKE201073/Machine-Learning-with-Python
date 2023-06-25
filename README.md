@@ -1,5 +1,5 @@
 # Machine-Learning-with-Python
-~ begin 21 June...
+~ begin 21 June until 25 June 2023 ~
 
 ---
 
@@ -35,3 +35,6 @@ Module 4 - Clustering
 Module 5 - Recommender Systems
 - Content-Based Recommender Systems  
 - Collaborative Filtering
+
+---
+LESSON COMPLETED
